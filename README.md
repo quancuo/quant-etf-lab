@@ -12,6 +12,9 @@
 - [第 2 天 · ETF 历史行情与复权讲义](day-02/README.md)
 - [第 2 天 · 力扣和贝叶斯题目与参考答案](day-02/exercises.md)
 - [第 2 天 · Python 练习和自测](day-02/practice.py)
+- [第 3 天 · 日期索引与行情清洗讲义](day-03/README.md)
+- [第 3 天 · 力扣和组合计数题目与参考答案](day-03/exercises.md)
+- [第 3 天 · Python 练习和自测](day-03/practice.py)
 
 ## 运行第 1 天代码
 
